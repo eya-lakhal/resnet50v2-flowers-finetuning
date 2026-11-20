@@ -1,0 +1,9 @@
+streamlit>=1.37
+plotly>=5.20
+pandas
+numpy
+pillow
+matplotlib
+# Optionnel : uniquement pour l'inférence et les filtres/feature maps en direct
+# (versions utilisées dans Colab : TensorFlow 2.21 / Keras 3.13)
+tensorflow>=2.16
